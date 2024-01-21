@@ -1,5 +1,6 @@
 import { useState } from "react"
 import Button from "./Button";
+import Swal from "sweetalert2";
 
 const EnrolledCourseCard = ({ course, onClick }) => {
 
@@ -8,6 +9,13 @@ const EnrolledCourseCard = ({ course, onClick }) => {
     const handleSetCompleted = () => {
         setCompleted(c => !c);
         onClick();
+        Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Your have marked this course as completed",
+            showConfirmButton: false,
+            timer: 1500
+        });
     }
 
     return (

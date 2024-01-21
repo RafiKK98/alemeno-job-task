@@ -3,13 +3,29 @@ import { useDispatch } from "react-redux"
 import Button from "./Button";
 import { addEnrolledCourse } from "../redux/reducers/enrolledSlice";
 import { Link } from "react-router-dom";
+import Swal from "sweetalert2";
 
 const CourseCard = ({ course }) => {
     const dispatch = useDispatch();
     const [enrolled, setEnrolled] = useState(false);
     
     const handleAddEnroll = course => {
+        if (course.enrollmentStatus != "Open") {
+            Swal.fire({
+                title: "Error!",
+                text: "This course is closed!",
+                icon: "error"
+            });
+            return;
+        }
         dispatch(addEnrolledCourse(course));
+        Swal.fire({
+            position: "top-end",
+            title: "You have enrolled in this course!",
+            icon: "success",
+            showConfirmButton: false,
+            timer: 1500
+        });
         setEnrolled(true);
     }
     

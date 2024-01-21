@@ -11,6 +11,7 @@ Technologies used:
 - Redux-Toolkit
 - Tailwind
 - DaisyUI
+- SweetAlert2
 - Vite
 
 ### Prerequisites
