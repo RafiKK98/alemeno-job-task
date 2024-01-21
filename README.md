@@ -22,10 +22,9 @@ To run the application locally, the following requirements are necessary:
 
 ### Installation
 1. Clone the repository:
-
    ```bash
-   git clone https://github.com/RafiKK98/hyggex-job-task.git
-   cd hyggex-job-task
+   git clone https://github.com/RafiKK98/alemeno-job-task.git
+   cd alemeno-job-task
    ```
 2. Install dependencies:
     ```bash
@@ -47,7 +46,3 @@ To run the application locally, the following requirements are necessary:
     yarn build
     ```
     This will generate an optimized build in the `dist` directory.
-
-Links:
-- Live site: [https://hyggex-task.surge.sh](https://hyggex-task.surge.sh)
-- Github repo: [https://github.com/RafiKK98/hyggex-job-task](https://github.com/RafiKK98/hyggex-job-task)
