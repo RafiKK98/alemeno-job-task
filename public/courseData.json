@@ -1,0 +1,1147 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Advanced Web Development with React",
+            "instructor": "Professor Alexander Harris",
+            "prerequisites": [
+                "Intermediate JavaScript",
+                "React Basics"
+            ],
+            "description": "Take your web development skills to the next level with advanced React concepts and techniques.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Advanced React Components",
+                    "content": "Explore advanced concepts in React component design."
+                },
+                {
+                    "week": 2,
+                    "topic": "State Management with Redux",
+                    "content": "Learn how to manage state using Redux."
+                },
+                {
+                    "week": 3,
+                    "topic": "Asynchronous Programming with Redux Thunk",
+                    "content": "Handle asynchronous operations in Redux."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Introduction to React",
+            "instructor": "John",
+            "prerequisites": [
+                "Basic Javascript knowledge",
+                "Familiarity with React"
+            ],
+            "description": "Learn the basics of React Native development and build your first mobile app.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Overview of React Native",
+                    "content": "Overview of React Native, setting up your development environment."
+                },
+                {
+                    "week": 2,
+                    "topic": "Overview of React",
+                    "content": "Overview of React, setting up your development environment."
+                },
+                {
+                    "week": 3,
+                    "topic": "Building Components in React Native",
+                    "content": "Learn to build components in React Native."
+                },
+                {
+                    "week": 4,
+                    "topic": "State and Props in React Native",
+                    "content": "Understanding and managing state and props in React Native."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Python for Data Science",
+            "instructor": "Ms. Peyton Ward",
+            "prerequisites": [
+                "Basic Python Knowledge"
+            ],
+            "description": "Dive into the world of data science using Python. Learn data analysis, visualization, and machine learning.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1499",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Data Science",
+                    "content": "Overview of data science and its applications."
+                },
+                {
+                    "week": 2,
+                    "topic": "Data Cleaning and Preprocessing",
+                    "content": "Clean and preprocess raw data for analysis."
+                },
+                {
+                    "week": 3,
+                    "topic": "Data Visualization with Matplotlib",
+                    "content": "Create visualizations to better understand data."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Introduction to Java Programming",
+            "instructor": "Professor Alexander Harris",
+            "prerequisites": [
+                "Basic Programming Concepts"
+            ],
+            "description": "Get started with Java programming. Learn syntax, data types, and object-oriented principles.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Wednesdays and Thursdays, 8:00 PM - 10:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Java",
+                    "content": "Overview of Java and setting up the development environment."
+                },
+                {
+                    "week": 2,
+                    "topic": "Java Syntax and Control Flow",
+                    "content": "Understanding basic syntax and control flow in Java."
+                },
+                {
+                    "week": 3,
+                    "topic": "Object-Oriented Programming in Java",
+                    "content": "Introduction to object-oriented principles in Java."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Web Development with Node.js",
+            "instructor": "Mr. Ethan Thompson",
+            "prerequisites": [
+                "Basic JavaScript",
+                "Understanding of HTML and CSS"
+            ],
+            "description": "Explore server-side JavaScript with Node.js. Build scalable and efficient web applications.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Node.js",
+                    "content": "Overview of Node.js and setting up a basic server."
+                },
+                {
+                    "week": 2,
+                    "topic": "Express.js Framework",
+                    "content": "Building web applications with the Express.js framework."
+                },
+                {
+                    "week": 3,
+                    "topic": "Database Integration with MongoDB",
+                    "content": "Connecting Node.js applications to MongoDB."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Python for Machine Learning",
+            "instructor": "Professor Grace Robinson",
+            "prerequisites": [
+                "Basic Python Programming"
+            ],
+            "description": "Explore the fundamentals of machine learning using Python. Learn algorithms, model training, and evaluation.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1499",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Machine Learning",
+                    "content": "Overview of machine learning and its applications."
+                },
+                {
+                    "week": 2,
+                    "topic": "Supervised Learning Algorithms",
+                    "content": "Understanding and implementing supervised learning algorithms."
+                },
+                {
+                    "week": 3,
+                    "topic": "Unsupervised Learning Techniques",
+                    "content": "Exploring unsupervised learning techniques."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Mobile App Development with Flutter",
+            "instructor": "Mr. Ethan Thompson",
+            "prerequisites": [
+                "Dart Programming Basics"
+            ],
+            "description": "Build cross-platform mobile apps with Flutter. Learn widget-based UI development and state management.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Fridays and Thursdays, 4:00 PM - 6:00 PM",
+            "location": "Online",
+            "price": "899",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Flutter",
+                    "content": "Overview of Flutter and setting up a development environment."
+                },
+                {
+                    "week": 2,
+                    "topic": "Flutter Widgets and UI Design",
+                    "content": "Building user interfaces with Flutter widgets."
+                },
+                {
+                    "week": 3,
+                    "topic": "State Management in Flutter",
+                    "content": "Managing state in Flutter applications."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Data Structures and Algorithms in C++",
+            "instructor": "Ms. Sophia White",
+            "prerequisites": [
+                "C++ Programming Basics"
+            ],
+            "description": "Master fundamental data structures and algorithms using C++. Enhance your problem-solving skills.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "899",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Arrays and Linked Lists",
+                    "content": "Understanding and implementing arrays and linked lists."
+                },
+                {
+                    "week": 2,
+                    "topic": "Sorting and Searching Algorithms",
+                    "content": "Exploring common sorting and searching algorithms."
+                },
+                {
+                    "week": 3,
+                    "topic": "Graph Algorithms",
+                    "content": "Solving problems involving graphs with algorithms."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Full Stack Web Development with MERN",
+            "instructor": "Mr. Ethan Thompson",
+            "prerequisites": [
+                "MongoDB, Express.js, React, Node.js Basics"
+            ],
+            "description": "Become a full-stack developer with the MERN (MongoDB, Express.js, React, Node.js) stack.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Thursdays, 8:00 PM - 10:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Setting Up the MERN Stack",
+                    "content": "Installing and configuring MongoDB, Express.js, React, and Node.js."
+                },
+                {
+                    "week": 2,
+                    "topic": "Building RESTful APIs with Express.js",
+                    "content": "Creating RESTful APIs using Express.js."
+                },
+                {
+                    "week": 3,
+                    "topic": "React Frontend Development",
+                    "content": "Developing dynamic user interfaces with React."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Java Spring Boot Microservices",
+            "instructor": "Dr. Mia Garcia",
+            "prerequisites": [
+                "Java Programming Basics"
+            ],
+            "description": "Learn to build scalable and modular microservices with Java Spring Boot.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "10 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Microservices Architecture",
+                    "content": "Overview of microservices architecture and its benefits."
+                },
+                {
+                    "week": 2,
+                    "topic": "Building Microservices with Spring Boot",
+                    "content": "Creating microservices using the Spring Boot framework."
+                },
+                {
+                    "week": 3,
+                    "topic": "Microservices Communication and Orchestration",
+                    "content": "Implementing communication and orchestration between microservices."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Frontend Web Development with Vue.js",
+            "instructor": "Ms. Peyton Ward",
+            "prerequisites": [
+                "HTML, CSS, JavaScript Basics"
+            ],
+            "description": "Explore Vue.js for building modern and reactive user interfaces for web applications.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1499",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Vue.js",
+                    "content": "Overview of Vue.js and its core concepts."
+                },
+                {
+                    "week": 2,
+                    "topic": "Vue Components and State Management",
+                    "content": "Building components and managing state with Vue."
+                },
+                {
+                    "week": 3,
+                    "topic": "Routing and Vue CLI",
+                    "content": "Implementing routing and using the Vue CLI for development."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "DevOps Fundamentals",
+            "instructor": "Professor Ava Wilson",
+            "prerequisites": [
+                "Basic Linux Commands"
+            ],
+            "description": "Gain essential skills in DevOps, including continuous integration, delivery, and deployment.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "6 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1499",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to DevOps",
+                    "content": "Understanding the principles and practices of DevOps."
+                },
+                {
+                    "week": 2,
+                    "topic": "Version Control with Git",
+                    "content": "Mastering version control using Git."
+                },
+                {
+                    "week": 3,
+                    "topic": "CI/CD Pipelines",
+                    "content": "Implementing continuous integration and continuous delivery pipelines."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Game Development with Unity",
+            "instructor": "Ms. Jameson Lee",
+            "prerequisites": [
+                "C# Programming Basics"
+            ],
+            "description": "Explore game development using the Unity engine. Learn game design, scripting, and optimization.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Mondays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "899",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Unity",
+                    "content": "Overview of the Unity engine and setting up a game development environment."
+                },
+                {
+                    "week": 2,
+                    "topic": "Game Design Principles",
+                    "content": "Understanding fundamental game design principles."
+                },
+                {
+                    "week": 3,
+                    "topic": "Scripting with C# in Unity",
+                    "content": "Writing scripts for game development using C#."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Cybersecurity Essentials",
+            "instructor": "Dr. Emma Miller",
+            "prerequisites": [
+                "Basic Networking Concepts"
+            ],
+            "description": "Learn essential cybersecurity concepts and techniques to secure computer systems and networks.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "12 weeks",
+            "schedule": "Tuesdays and Wednesdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Cybersecurity",
+                    "content": "Overview of cybersecurity threats and defenses."
+                },
+                {
+                    "week": 2,
+                    "topic": "Network Security",
+                    "content": "Securing computer networks from unauthorized access."
+                },
+                {
+                    "week": 3,
+                    "topic": "Encryption and Cryptography",
+                    "content": "Implementing encryption and cryptography for data security."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Cloud Computing with AWS",
+            "instructor": "Mr. Harper Taylor",
+            "prerequisites": [
+                "Basic Cloud Computing Concepts"
+            ],
+            "description": "Explore cloud computing with Amazon Web Services (AWS). Learn to deploy and manage applications in the cloud.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Cloud Computing",
+                    "content": "Overview of cloud computing and its advantages."
+                },
+                {
+                    "week": 2,
+                    "topic": "AWS Services Overview",
+                    "content": "Introduction to key AWS services for cloud computing."
+                },
+                {
+                    "week": 3,
+                    "topic": "Deploying Applications on AWS",
+                    "content": "Deploying and managing applications on Amazon Web Services."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Blockchain Technology Fundamentals",
+            "instructor": "Ms. Peyton Ward",
+            "prerequisites": [
+                "Basic Cryptography Knowledge"
+            ],
+            "description": "Dive into the world of blockchain technology. Learn the fundamentals of decentralized systems and smart contracts.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1499",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Blockchain",
+                    "content": "Understanding the basics of blockchain technology."
+                },
+                {
+                    "week": 2,
+                    "topic": "Decentralized Systems",
+                    "content": "Exploring the concept of decentralized systems."
+                },
+                {
+                    "week": 3,
+                    "topic": "Smart Contracts",
+                    "content": "Creating and deploying smart contracts."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Flutter for Cross-Platform Mobile Development",
+            "instructor": "Professor Lincoln Scott",
+            "prerequisites": [
+                "Dart Programming Basics"
+            ],
+            "description": "Master Flutter for building beautiful and performant cross-platform mobile applications.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "899",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Flutter",
+                    "content": "Overview of Flutter and setting up a development environment."
+                },
+                {
+                    "week": 2,
+                    "topic": "Flutter Widgets and UI Design",
+                    "content": "Building user interfaces with Flutter widgets."
+                },
+                {
+                    "week": 3,
+                    "topic": "State Management in Flutter",
+                    "content": "Managing state in Flutter applications."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Linux System Administration",
+            "instructor": "Mr. Victoria Adams",
+            "prerequisites": [
+                "Basic Linux Commands"
+            ],
+            "description": "Learn the essentials of Linux system administration. Manage users, permissions, and system resources.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "4 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "899",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Linux",
+                    "content": "Overview of Linux operating systems."
+                },
+                {
+                    "week": 2,
+                    "topic": "User and Group Management",
+                    "content": "Managing users and groups on a Linux system."
+                },
+                {
+                    "week": 3,
+                    "topic": "Filesystem and Permissions",
+                    "content": "Understanding filesystems and managing permissions."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Angular Framework for Web Development",
+            "instructor": "Dr. Riley Clark",
+            "prerequisites": [
+                "TypeScript Basics"
+            ],
+            "description": "Explore the Angular framework for building modern and dynamic web applications.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "1999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Angular",
+                    "content": "Overview of the Angular framework and its key concepts."
+                },
+                {
+                    "week": 2,
+                    "topic": "Components and Directives",
+                    "content": "Building components and using directives in Angular."
+                },
+                {
+                    "week": 3,
+                    "topic": "Services and Dependency Injection",
+                    "content": "Creating services and implementing dependency injection."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                },
+                {
+                    "id": 104,
+                    "name": "Rohan",
+                    "email": "rohan@example.com"
+                },
+                {
+                    "id": 105,
+                    "name": "David",
+                    "email": "david@example.com"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Django Web Development",
+            "instructor": "Ms. Peyton Ward",
+            "prerequisites": [
+                "Python Programming Basics"
+            ],
+            "description": "Learn web development with Django. Build dynamic and scalable web applications using the Django framework.",
+            "enrollmentStatus": "Open",
+            "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "duration": "8 weeks",
+            "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+            "location": "Online",
+            "price": "999",
+            "syllabus": [
+                {
+                    "week": 1,
+                    "topic": "Introduction to Django",
+                    "content": "Overview of the Django web framework and setting up a project."
+                },
+                {
+                    "week": 2,
+                    "topic": "Django Models and Database",
+                    "content": "Defining models and working with databases in Django."
+                },
+                {
+                    "week": 3,
+                    "topic": "Django Views and Templates",
+                    "content": "Creating views and templates for Django web applications."
+                }
+            ],
+            "students": [
+                {
+                    "id": 101,
+                    "name": "Alice Johnson",
+                    "email": "alice@example.com"
+                },
+                {
+                    "id": 102,
+                    "name": "John",
+                    "email": "john@example.com"
+                },
+                {
+                    "id": 103,
+                    "name": "Alisha",
+                    "email": "alisha@example.com"
+                }
+            ]
+        }
+    ]
+}
